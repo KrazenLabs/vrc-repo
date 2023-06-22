@@ -1,7 +1,7 @@
 {
     "name":"KrazenLabs VRChat VCC Packages",
     "id":"com.krazenlabs.vrcrepo",
-    "url":"https://raw.githubusercontent.com/KrazenLabs/VRCrepo/main/vcc.json",
+    "url":"https://KrazenLabs.github.io/vrc-repo/index.json",
     "author":{
         "email":"krazen@krazenlabs.com",
         "name":"Krazen",
@@ -9,12 +9,12 @@
     },
     "description":"Listing of my personal VRC packages",
     "infoLink":{
-        "url":"https://github.com/KrazenLabs/VRCrepo",
+        "url":"https://github.com/KrazenLabs/vrc-repo/",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "KrazenLabs/VRCFuryWDFixFixer"
     ],
     "packages":[
         {
