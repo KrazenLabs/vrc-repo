@@ -13,9 +13,6 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "KrazenLabs/VRCFuryWDFixFixer"
-    ],
     "packages":[
         {
             "name":"com.krazenlabs.vrcfurywdfixfixer",
