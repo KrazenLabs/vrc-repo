@@ -12,7 +12,7 @@
         "url":"https://github.com/KrazenLabs/vrc-repo/",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"kl_logo.png",
     "packages":[
         {
             "name":"com.krazenlabs.vrcfurywdfixfixer",
