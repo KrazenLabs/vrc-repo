@@ -12,6 +12,9 @@
         "url":"https://github.com/KrazenLabs/vrc-repo/",
         "text":"View on GitHub"
     },
+    "githubRepos":[
+        "KrazenLabs/VRCFuryWDFixFixer"
+    ],
     "bannerUrl":"kl_logo.png",
     "packages":[
         {
